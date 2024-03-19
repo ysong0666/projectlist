@@ -1,2 +1,2 @@
 # README
-An app that tracks all projects.
+An app that tracks all projects using NodeJS.
