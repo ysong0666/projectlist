@@ -1,0 +1,141 @@
+[
+  {
+    "id": 0,
+    "name": "Project List",
+    "image": "📋",
+    "date": "Mar 2024",
+    "techStacks": "NodeJS",
+    "languages": "JavaScript/HTML/CSS",
+    "done": true,
+    "description": "A web app that lists all the projects/programs I have worked on or is working on, AKA the site you are on right now!"},
+  {
+    "id": 1,
+    "name": "MBTA Simulator",
+    "image": "🚆",
+    "date": "Nov 2022",
+    "techStacks": "JUnit",
+    "languages": "Java",
+    "done": true,
+    "description": "A multi-threaded simulation of MBTA, representing the movement of trains and the (de)boarding of passengers given a JSON file of MBTA map and passenger itineraries. Applied threading mechanisms, locks, and condition variables to ensure seamless operations of trains and passengers. Implemented a verifier to test and ensure the simulation accurately met operational rules and completed tasks."
+  },
+  {
+    "id": 2,
+    "name": "Visual Analytics",
+    "image": "📈",
+    "date": "Apr 2023",
+    "techStacks": "Pandas, Numpy, Streamlit, Matplotlib, Tableau",
+    "languages": "Python",
+    "done": true,
+    "description": "2017 VAST Challenge: Blue Pipit population has been decreasing in Boonsong Lekagul Nature Preserve near Mistford, we need to figure out why by using the Hypothesis First Approach. By using Tableau to confirm our list of hypotheses, we narrowed them down to a couple, mostly focusing on visitor car itineraries. For example, we converted a bitmap of the reserve into a graph and used graph algorithms to detect speeding and trespassing. Then we implemented multiple coordinated visualizations with interactive features to visualize abnormal patterns of visitor cars in the preserve."
+  },
+  {
+    "id": 3,
+    "name": "USASpending App",
+    "image": "💵",
+    "date": "Jan 2024",
+    "techStacks": "RStudio, Shiny, Jira, GitHub Actions",
+    "languages": "Python/Bash/R/SQL",
+    "done": false,
+    "description": "A web app using R/Shiny and JavaScript to enable a Native American owned data science company and tribal stakeholders to query the USASpending API for real-time federal funding information. Created a tiered approach to enable API access. Performed SQL queries in RStudio to identify key features to analyze and to include in the app dashboard."
+  },
+  {
+    "id": 4,
+    "name": "Conway's Game of Life",
+    "image": "🦠",
+    "date": "Sep 2023",
+    "techStacks": "SwiftUI",
+    "languages": "Swift",
+    "done": true,
+    "description": "A mobile app to simulate Conway’s Game of Life using Swift’s Composable Architecture and Combine framework. Created interactive user interfaces for displaying cellular evolution with customizable configurations, and incorporated dynamic phase animations."
+  },
+  {
+    "id": 5,
+    "name": "Chess Board Simulator",
+    "image": "♟️",
+    "date": "Sep 2022",
+    "techStacks": "JUnit",
+    "languages": "Java",
+    "done": true,
+    "description": "A chess game simulator that processes input from a file detailing the initial positions of chess pieces on the board and a sequence of moves. The simulator will establish the game board based on the input, execute the specified moves while ensuring they adhere to the rules of chess, and output the final board state upon completion. The program utilizes several  java design patterns: Singleton, Factory, External Dependency Injection, Observer, and (Internal) Iterator."
+  },
+  {
+    "id": 6,
+    "name": "Unit Testing",
+    "image": "☑️",
+    "date": "Oct 2023",
+    "techStacks": "",
+    "languages": "Java",
+    "done": true,
+    "description": "Developed a number of useful testing framework components and implemented my own version of JUnit from scratch."
+  },
+  {
+    "id": 7,
+    "name": "2048",
+    "image": "🎮",
+    "date": "Dec 2019",
+    "techStacks": "",
+    "languages": "C++",
+    "done": true,
+    "description": "2048 game app."
+  },
+  {
+    "id": 8,
+    "name": "Radar Tracer",
+    "image": "📍",
+    "date": "Nov 2022",
+    "techStacks": "",
+    "languages": "Python",
+    "done": true,
+    "description": "Uses Naive Bayes Classification to classify the ten radar tracks as either birds or aircrafts. Implemented Hidden Markov Model to classify the objects as we cannot directly measure the classes. We can only infer by using the observable features, which is the speed over time here."
+  },
+  {
+    "id": 9,
+    "name": "SVM from Scratch",
+    "image": "👩🏻‍💻",
+    "date": "Nov 2023",
+    "techStacks": "NumPy, SciPy",
+    "languages": "Python",
+    "done": true,
+    "description": "Implemented a support vector machine (SVM) from scratch."
+  },
+  {
+    "id": 10,
+    "name": "Sonnet TF-IDF",
+    "image": "💭",
+    "date": "Dec 2023",
+    "techStacks": "NumPy, Pandas",
+    "languages": "Python",
+    "done": true,
+    "description": "Implemented TF-IDF to identify keywords in Shakespeare's sonnets."
+  },
+  {
+    "id": 11,
+    "name": "Similar Users",
+    "image": "👨‍👧‍👦",
+    "date": "Oct 2023",
+    "techStacks": "NumPy, Pandas",
+    "languages": "Python",
+    "done": true,
+    "description": "Finds groups of similar users who rated similar sets of movies using Minhash algorithm."
+  },
+  {
+    "id": 12,
+    "name": "Traffic Ranking",
+    "image": "✈️",
+    "date": "Nov 2023",
+    "techStacks": "NumPy, Pandas, SciPy",
+    "languages": "Python",
+    "done": true,
+    "description": "Calculates traffic rankings of cities using Pagerank algorithm."
+  },
+  {
+    "id": 13,
+    "name": "Container",
+    "image": "📦",
+    "date": "Mar 2024",
+    "techStacks": "Linux",
+    "languages": "Bash",
+    "done": true,
+    "description": "Created a container following https://ericchiang.github.io/post/containers-from-scratch/. Explored chroot, unshare, nsenter, mount, and cgroups."
+  }
+]
